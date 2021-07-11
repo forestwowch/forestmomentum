@@ -15,9 +15,3 @@ function onGeoOk(position) {
 }
 
 navigator.geolocation.getCurrentPosition(onGeoOk);
-/*
-function onGeoError() {
-    alert("cannot");
-}
-navigator.geolocation.getCurrentPosition(onGeoOk, onGeoError);
-*/
