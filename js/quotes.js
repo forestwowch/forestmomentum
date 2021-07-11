@@ -1,27 +1,27 @@
 const quotes=[
     {
-        quote:"first",
-        author:"first-quote",
+        quote:"If you want the rainbow, you gotta put up with the rain.",
+        author:"Dolly Parton",
     },
     {
-        quote:"second",
-        author:"second-quote",
+        quote:"Don't let the fear of striking out hold you back.",
+        author:"Babe Ruth",
     },
     {
-        quote:"third",
-        author:"third-quote",
+        quote:"Be curious.",
+        author:"Stephen Hawking",
     },
     {
-        quote:"fourth",
-        author:"fourth-quote",
+        quote:"He who knows best knows how little he knows.",
+        author:"Thomas Jefferson",
     },
     {
-        quote:"fifth",
-        author:"fifth-quote",
+        quote:"Dreaming, after all, is a form of planning.",
+        author:"Gloria Steinem",
     },
     {
-        quote:"sixth",
-        author:"sixth-quote",
+        quote:"All our dreams can come true if we have the courage to pursue them.",
+        author:"Walt Disney",
     },
 ];
 
