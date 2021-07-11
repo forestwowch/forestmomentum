@@ -9,4 +9,3 @@ function getClock(){
 }
 getClock();
 setInterval(getClock, 1000);
-//setTimeout(getClock, 1000);
